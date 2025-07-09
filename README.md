@@ -9,8 +9,8 @@ uma API e praticar a persistência de dados em um banco de dados relacional.
 
 <div align="center">
   
-  <h4>Resultado via console: Conversor de Moedas</h4>
-  <img width="500" src="https://github.com/marisouza31/Literalura/blob/main/result/result.png"><br>
+  <h4>Resultado via console:</h4>
+  <img width="500" src="https://github.com/marisouza31/Literalura/result.png"><br>
    Fonte: Alura💙 e Mariana Ocireu.
 </div>
 
